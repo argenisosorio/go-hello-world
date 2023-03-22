@@ -5,7 +5,7 @@ Make sure you have the Go language installed.
 ## Run de example
 
 ```bash
-$ go run tet.go
+$ go run test.go
 ```
 
 It should print us in the console
