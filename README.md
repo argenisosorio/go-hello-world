@@ -1,4 +1,4 @@
-# Example of hello world in Go or Goland language
+# Example of hello world in Go or Golang language
 
 Make sure you have the Go language installed.
 
